@@ -1,0 +1,5 @@
+{
+    "require": {
+        "psr/http-server-middleware": "^1.0"
+    }
+}
