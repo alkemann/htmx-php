@@ -1,4 +1,16 @@
 {
+    "name": "alkemann/htmx-php",
+    "description": "Middleware for easing use of HTMX",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Morland",
+            "email": "alek.morland@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "alkemann\\htmx\\": "src/" }
+    },
     "require": {
         "psr/http-server-middleware": "^1.0"
     }
